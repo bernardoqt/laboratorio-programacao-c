@@ -1,0 +1,23 @@
+1. Qual função não possui parâmetros nem retorno?
+
+A função exibirMenu() (na calculadora). Ela é do tipo void e recebe void, só mostra o menu na tela. O exibirLinha() do exercício 5 também é desse tipo.
+
+2. Quais funções recebem dois parâmetros?
+
+As funções somar(), subtrair(), multiplicar() e dividir(), que recebem os dois números da operação.
+
+3. Qual é a finalidade do return nas funções matemáticas?
+
+Devolver o resultado do cálculo para quem chamou a função, para que ele possa ser mostrado, guardado em uma variável ou usado em outras contas.
+
+4. Por que o programa utiliza switch?
+
+Para escolher qual operação executar de acordo com a opção digitada pelo usuário (1, 2, 3, 4 ou 0). Fica mais organizado do que vários if e else encadeados.
+
+5. Qual é a finalidade da estrutura do...while?
+
+Executar o menu pelo menos uma vez e repetir as operações até o usuário escolher 0 para sair.
+
+6. Por que a divisão por zero precisa ser verificada?
+
+Porque dividir por zero é uma operação matematicamente inválida e causa erro ou resultado incorreto no programa. A verificação evita que o programa quebre.

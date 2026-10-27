@@ -1,0 +1,12 @@
+Questao de revisao
+
+Valor exibido pelo programa: 20
+
+Explicacao:
+A matriz numeros[2][2] guarda os valores 2, 4, 6 e 8.
+Os dois for percorrem todas as posicoes e somam cada valor na variavel soma:
+0 + 2 = 2
+2 + 4 = 6
+6 + 6 = 12
+12 + 8 = 20
+O printf imprime 20.
